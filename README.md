@@ -1,3 +1,4 @@
+<img width="1486" height="1058" alt="ChatGPT Image Jun 5, 2026, 05_53_17 PM" src="https://github.com/user-attachments/assets/81139118-0824-49f7-adbc-b90ca7ebd692" />
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ <img width="1486" height="1058" alt="ChatGPT Image Jun 5, 2026, 05_53_17 PM" src="https://github.com/user-attachments/assets/f6c7daf2-315a-4cb7-9440-f87a35b8baa4" />
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
