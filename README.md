@@ -1,4 +1,4 @@
-<img width="1486" height="1058" alt="ChatGPT Image Jun 5, 2026, 05_53_17 PM" src="https://github.com/user-attachments/assets/81139118-0824-49f7-adbc-b90ca7ebd692" />
+
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
